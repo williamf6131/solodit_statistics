@@ -8,7 +8,7 @@
 | [Airpuff](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-05-01-Airpuff.md) | 0 | 3 | 18 | 21 |
 | [Zap](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-06-07-Zap.md) | 2 | 6 | 7 | 15 |
 | [Your](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2023-12-21-Your.md) | 0 | 0 | 2 | 2 |
-| [Planar Finance](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-03-25-Planar Finance.md) | 0 | 6 | 16 | 22 |
+| [Planar\ Finance](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-03-25-Planar Finance.md) | 0 | 6 | 16 | 22 |
 | [Curra](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-01-04-Curra.md) | 1 | 0 | 5 | 6 |
 | [Propchain](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-03-25-Propchain.md) | 5 | 1 | 14 | 20 |
 | [Realize](https://github.com/solodit/solodit_content/blob/main/reports/Zokyo/2024-06-29-Realize.md) | 1 | 2 | 9 | 12 |
